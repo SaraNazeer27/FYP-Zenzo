@@ -45,12 +45,6 @@ Before you begin, ensure you have the following installed:
 
 ## Installation
 
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/vinukaveesha/neural-network-based-hate-content-analyzer.git
-cd neural-network-based-hate-content-analyzer
-```
-
 ### Step 2: Create Virtual Environment
 Creating a virtual environment is **highly recommended** to avoid package conflicts:
 
